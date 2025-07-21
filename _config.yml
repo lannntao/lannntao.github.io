@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lan Tao"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Ph.D. Candidate in Statistics"
   location         : "Los Angeles, CA"
   employer         : "University of California, Los Angeles"
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Lan Tao
+  linkedin         : "https://www.linkedin.com/in/lan-tao-80466915b/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

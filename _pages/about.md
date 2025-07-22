@@ -12,7 +12,7 @@ I am a third-year Ph.D. student in [Deparment of Statistics & Data Science](http
 
 Research Topics
 ======
-(under construction)
+My current research interests lie on investigating evaluation methods for evaluating generative data fidelity, which is similarity between real and synthetic data. 
 
 
 Education

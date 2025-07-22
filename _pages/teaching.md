@@ -1,11 +1,10 @@
 ---
 layout: single
-title: "Teaching"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
 
 ### University of California, Los Angeles
 

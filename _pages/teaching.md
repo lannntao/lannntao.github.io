@@ -3,9 +3,6 @@ layout: page
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ## Teaching Experience

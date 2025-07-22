@@ -1,20 +1,20 @@
-// Make sidebar wider
-.sidebar {
-  width: 350px;           // default is around 250px
-  max-width: 350px;
-}
+// // Make sidebar wider
+// .sidebar {
+//   width: 350px;           // default is around 250px
+//   max-width: 350px;
+// }
 
-// Adjust main content so it doesn’t overlap
-.page, .archive {
-  margin-left: 360px;     // slightly more than sidebar width
-}
+// // Adjust main content so it doesn’t overlap
+// .page, .archive {
+//   margin-left: 360px;     // slightly more than sidebar width
+// }
 
-// Make profile image fit the new sidebar
-.author__avatar {
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+// // Make profile image fit the new sidebar
+// .author__avatar {
+//   width: 180px;
+//   height: 180px;
+//   border-radius: 50%;
+//   display: block;
+//   margin-left: auto;
+//   margin-right: auto;
+// }

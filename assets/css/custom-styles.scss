@@ -1,22 +1,23 @@
+
 // Match sidebar width
 .sidebar {
   width: 300px;
   max-width: 300px;
 }
 
-// Offset main content properly
+// Add space between sidebar and main content
 .main,
 .page,
 .archive {
-  margin-left: 320px;  // sidebar width + padding
+  margin-left: 340px;  // 300px sidebar + 40px extra gap
 }
 
-// Optional: Adjust navbar items
+// Optional: Shift navbar items too
 .nav__container {
   margin-left: 300px;
 }
 
-// Make profile image fit the new sidebar
+// Enlarged profile photo
 .author__avatar {
   width: 180px;
   height: 180px;

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Statistics at University of California, Los Angeles(UCLA). I am fortunate to be advised by [Prof. Guang Cheng](https://faculty.stat.ucla.edu/guangcheng/index.html) at Trustworthy AI Lab. My current research focuses on statistical evaluation of generative data fidelity. I also collaborated with [Prof. Minjeong Jeon](https://sites.google.com/site/arbormj) on developing effect estimations for transition diagnostic classification models. Previously, I completed my bachelor's degree of Applied Mathematics at Tongji University, advised by Prof. Li Zhang.
+I am a Ph.D. candidate in Statistics at [University of California, Los Angeles(UCLA)](https://statistics.ucla.edu/). I am fortunate to be advised by [Prof. Guang Cheng](https://faculty.stat.ucla.edu/guangcheng/index.html) at Trustworthy AI Lab. My current research focuses on statistical evaluation of generative data fidelity. I also collaborated with [Prof. Minjeong Jeon](https://sites.google.com/site/arbormj) on developing effect estimations for transition diagnostic classification models. Previously, I completed my bachelor's degree of Applied Mathematics at [Tongji University](https://math.tongji.edu.cn/index.htm), advised by Prof. Li Zhang.
 
 
 Research Topics
@@ -24,7 +24,7 @@ Education
 
 Publications
 ======
-1. **Tao, L.**, Duan, H., Resch, J., Jeon, M. (2025).  
+1. **Tao, L.**, Duan, H., Jeon, M. (2025).  
    *Bayesian Inference of Transition Diagnostic Classification Models with Multilevel Effects Using Gibbs Sampling with Pòlya-Gamma Augmentation.*  
    In progress.
    

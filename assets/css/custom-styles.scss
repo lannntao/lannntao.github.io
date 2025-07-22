@@ -1,12 +1,19 @@
-// Make sidebar wider
+// Match sidebar width
 .sidebar {
-  width: 350px;           // default is around 250px
-  max-width: 350px;
+  width: 300px;
+  max-width: 300px;
 }
 
-// Adjust main content so it doesn’t overlap
-.page, .archive {
-  margin-left: 360px;     // slightly more than sidebar width
+// Offset main content properly
+.main,
+.page,
+.archive {
+  margin-left: 320px;  // sidebar width + padding
+}
+
+// Optional: Adjust navbar items
+.nav__container {
+  margin-left: 300px;
 }
 
 // Make profile image fit the new sidebar
@@ -18,3 +25,4 @@
   margin-left: auto;
   margin-right: auto;
 }
+

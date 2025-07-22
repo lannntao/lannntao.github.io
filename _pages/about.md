@@ -13,7 +13,6 @@ Feel free to reach out via email if you are interested in collaborating.
 
 <i>"Pressure is a privilege. It comes to those who earn it."<i>
 
-
 Research Topics
 ======
 My current research topics are on investigating effective methods for evaluating generative data fidelity. Essentially, I am interested in measuring how well a generative model emulates the real data. High fidelity is crucial for ensuring trustworthy outputs in AI applications and maintaining realism in generated content. 

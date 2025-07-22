@@ -15,7 +15,11 @@ Feel free to reach out via email if you are interested in collaborating.
 
 Research Topics
 ======
-My current research topics are on investigating effective methods for evaluating generative data fidelity. Essentially, I am interested in measuring how well a generative model emulates the real data. High fidelity is crucial for ensuring trustworthy outputs in AI applications and maintaining realism in generated content. 
+
+My current research focuses on developing effective methods for evaluating the fidelity of generative models—that is, assessing how well synthetic data replicates the characteristics of real data. High fidelity is essential for producing trustworthy outputs and realistic content in AI applications. Generative data fidelity encompasses multiple dimensions depending on the domain and task. Specifically, my current study involves:
+1. Distributional fidelity in image generation
+2. Causal fidelity in synthetic tabular data
+3. Discriminative fidelity in language model–generated text
 
 
 Education

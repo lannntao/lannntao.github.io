@@ -10,10 +10,11 @@ author_profile: true
 
 - **Stats 10 – Introduction to Statistical Reasoning**  
   *Teaching Associate*, Winter 2024
-
-- **Stats 13 – Introduction to Statistical Methods for Life and Health Sciences**
-  *Teaching Associate*, Fall 2023, Spring 2024, Summer 2024
+  
+- **Stats 13 – Introduction to Statistical Methods for Life and Health Sciences**  
+  *Teaching Associate*, Fall 2023, Spring 2024, Summer 2024<br>
   *Teaching Fellow*, Winter 2025
+ 
 
 - **Stats 20 – Introduction to Statistical Programming with R**  
   *Teaching Assistant*, Fall 2022

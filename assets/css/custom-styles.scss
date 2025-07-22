@@ -1,3 +1,15 @@
+// Make sidebar wider
+.sidebar {
+  width: 300px;           // default is around 250px
+  max-width: 300px;
+}
+
+// Adjust main content so it doesn’t overlap
+.page, .archive {
+  margin-left: 320px;     // slightly more than sidebar width
+}
+
+// Make profile image fit the new sidebar
 .author__avatar {
   width: 180px;
   height: 180px;

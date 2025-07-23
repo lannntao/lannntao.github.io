@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Research Projects
-
 
 ### 1. Bayesian Inference of Transition Diagnostic Classification Models with Multilevel Effects Using Gibbs Sampling with Pólya-Gamma Augmentation  
 **Lan Tao**, Hao Duan, Minjeong Jeon  

@@ -11,7 +11,7 @@ I am a third-year Ph.D. student in [Deparment of Statistics & Data Science](http
 
 Feel free to reach out via email if you are interested in collaborating.
 
-\\ <i>"Pressure is a privilege. It comes to those who earn it."<i>
+<!-- <i>"Pressure is a privilege. It comes to those who earn it."<i> -->
 
 Research Topics
 ======

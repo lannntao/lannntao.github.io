@@ -22,7 +22,7 @@ repository               : # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_3.jpg"
+  avatar           : "profile_4.jpg"
   name             : "Lan Tao"
   pronouns         : # "she/her"  
   bio              : "Ph.D. Candidate in Statistics at UCLA"
